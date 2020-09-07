@@ -2,7 +2,7 @@
 
 In this project i create a Convolutional Neural Network (CNN) to classify whether images contain either a dog or a cat.
 
-##Dataset
+## Dataset
 
 Link to the competition and dataset: https://www.kaggle.com/c/dogs-vs-cats
 
